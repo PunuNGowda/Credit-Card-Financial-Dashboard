@@ -44,13 +44,6 @@ The dashboard offers a comprehensive look at revenue trends across different dem
 3. Open the `.pbix` file in **Power BI Desktop**.
 4. Explore the dashboard and interact with filters and slicers.
 
-## How to Use the Dashboard
-
-- **State-wise Analysis**: Click on the state slicer to view sales specific to that region.
-- **Category-wise Insights**: Use the category filter to analyze sales based on product categories like clothing, electronics, etc.
-- **Quarterly Trends**: Filter sales performance by quarters to identify patterns in different periods.
-- **Payment Mode Analysis**: Understand customer payment preferences using the payment mode pie chart.
-
 ## Project Learnings
 
 - **Data Cleaning**: Connected PostgreSQL to Power BI for seamless data import, ensuring that the raw credit card transaction data was cleaned and preprocessed effectively before visualization. This process was crucial for generating accurate and actionable insights.
